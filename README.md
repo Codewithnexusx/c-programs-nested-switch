@@ -1,2 +1,18 @@
 # c-programs-nested-switch
-A simple C program demonstrating nested switch statements. Users select a category (Fruits/Drink) and then an item within it. The program displays the chosen item, using nested switches, default cases for invalid input, and break statements to control flow—ideal for beginners.
+# Nested Switch in C
+
+This repository contains a **C program demonstrating nested switch statements**.  
+The program allows users to select a category and an item, performing actions based on the choices.  
+It is a simple example to understand **decision-making using multiple levels of conditions** in C.
+
+## Topics Covered
+- Nested switch statements
+- User input handling
+- Conditional logic
+
+## How to Run
+1. Compile the program:
+     gcc nested_switch.c -o nested_switch
+2. Run the program:
+     ./nested_switch
+3. Follow the prompts to see nested conditions in action.
